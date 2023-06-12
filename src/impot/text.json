@@ -1,0 +1,42 @@
+[{
+    "agent":"agent1",
+    "donotcall": "11",
+    "callmeletter":"10",
+    "intrested":"5",
+    "complaint":"58",
+    "notPickedUp":"5",
+    "disconnected":"3",
+    "hangUp":"10"
+
+  },
+  {
+    "agent":"agent2",
+    "donotcall": "1",
+    "callmeletter":"2",
+    "complaint":"55",
+    "notPickedUp":"32",
+    "disconnected":"2",
+    "hangUp":"19"
+
+  },
+  {
+    "agent":"agent3",
+    "donotcall": "11",
+    "callmeletter":"10",
+    "intrested":"5",
+    "complaint":"58",
+    "disconnected":"3",
+    "hangUp":"10"
+
+  },
+  {
+    "agent":"agent4",
+    "donotcall": "1",
+    "intrested":"5",
+    "complaint":"55",
+    "disconnected":"2",
+    "hangUp":"19"
+
+  }
+
+]
