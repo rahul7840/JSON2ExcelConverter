@@ -6,7 +6,7 @@ import { ImpotService } from './impot.service';
 @Module({
   imports: [
     MongooseModule.forRoot(
-      '',
+      'proccess.env.URL',
     )
   ],
   controllers: [ImpotController],
